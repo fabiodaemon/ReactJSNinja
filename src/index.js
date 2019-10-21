@@ -6,7 +6,6 @@ import { AppContainer } from 'react-hot-loader'
 import App from './app'
 
 const renderApp = (NextApp) => {
-    
     render(
         <AppContainer>
             <NextApp />
